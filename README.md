@@ -1,5 +1,7 @@
 # flutter_http_api_request
 
+Bu projede Vitalen Otomotiv A.Ş. nin API verilerini kullanarak, hangi araçlarda hangi FT cihazının kullanılabileceğini gösteren bir uygulama geliştirdim. 
+
 
 ![Screenshot_2021-11-11-09-24-58-108_com example pedal_commander~2](https://user-images.githubusercontent.com/58392243/141250614-4fb4d2fe-190b-4664-9a10-31223f502a89.jpg)
 ![Screenshot_2021-11-11-09-25-48-302_com example pedal_commander~2](https://user-images.githubusercontent.com/58392243/141250822-7f179ff7-c6d0-4239-a13e-74fc62b74041.jpg)
